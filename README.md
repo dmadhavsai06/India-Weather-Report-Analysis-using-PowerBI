@@ -2,8 +2,6 @@
 Interactive Power BI dashboard for analyzing temperature, rainfall, and atmospheric pressure across Indian cities with dynamic filtering and visual insights
 # 🌦️ India Weather Dashboard (Power BI)
 
-# 🌦️ India Weather Dashboard (Power BI)
-
 An interactive Power BI dashboard developed to analyze weather patterns across Indian cities. The dashboard provides insights into temperature, rainfall, atmospheric pressure, and city-wise weather trends through interactive visualizations and dynamic filtering options.
 
 ## 📊 Project Overview
