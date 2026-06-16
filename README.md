@@ -2,11 +2,13 @@
 Interactive Power BI dashboard for analyzing temperature, rainfall, and atmospheric pressure across Indian cities with dynamic filtering and visual insights
 # 🌦️ India Weather Dashboard (Power BI)
 
-An interactive Power BI dashboard built to analyze weather patterns across Indian cities. The dashboard provides insights into temperature, rainfall, atmospheric pressure, and city-wise weather trends through interactive visualizations.
+# 🌦️ India Weather Dashboard (Power BI)
 
-## 📊 Dashboard Overview
+An interactive Power BI dashboard developed to analyze weather patterns across Indian cities. The dashboard provides insights into temperature, rainfall, atmospheric pressure, and city-wise weather trends through interactive visualizations and dynamic filtering options.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+## 📊 Project Overview
+
+This dashboard helps users explore and understand weather conditions across different Indian cities by visualizing key meteorological indicators. It enables quick analysis of temperature variations, rainfall distribution, and atmospheric pressure trends through an intuitive and interactive interface.
 
 ## 🚀 Features
 
@@ -26,35 +28,15 @@ An interactive Power BI dashboard built to analyze weather patterns across India
 - Data Modeling
 - Data Visualization
 
-## 📸 Screenshots
-
-### Interactive City Filtering
-
-![Interactive City Filtering](screenshots/interactive-city-filtering.png)
-
-### Average Temperature Overview
-
-![Average Temperature Overview](screenshots/average-temperature-overview.png)
-
-### Monthly Rainfall Trend Analysis
-
-![Monthly Rainfall Trend Analysis](screenshots/monthly-rainfall-trend-analysis.png)
-
-### Maximum vs Minimum Temperature Comparison
-
-![Maximum vs Minimum Temperature Comparison](screenshots/maximum-vs-minimum-temperature-comparison.png)
-
 ## 📈 Key Insights
 
 - Average Temperature: 25.9°C
 - Maximum Temperature: 44°C
 - Total Rainfall: 722K+
 - Average Atmospheric Pressure: 1.01K
-- Rainfall trends clearly highlight seasonal patterns.
-- Interactive filtering enables city-level weather analysis.
+- Seasonal rainfall patterns are clearly visible through trend analysis.
+- Interactive filtering enables detailed city-level weather exploration.
 
-## 🎯 Project Objective
+## 🎯 Conclusion
 
-To transform raw weather data into meaningful insights using Power BI dashboards and interactive visualizations.
-
-⭐ Feedback and suggestions are welcome!
+The India Weather Dashboard provides a comprehensive overview of weather conditions across multiple cities. By combining interactive visualizations with data-driven insights, the dashboard helps users identify weather trends, compare climatic conditions, and make informed observations efficiently.
